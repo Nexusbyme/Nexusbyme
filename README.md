@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Nexusbyme
-- 👀 I’m interested in dragons
-- 🌱 I’m currently learning codeing
-- 💞️ I’m looking to collaborate on.
-- 📫 How to reach me.
-- 😄 Pronouns:
+- 👀 I’m interested in dragons.
+- 🌱 I’m currently learning codeing.
+- 😄 Pronouns: not yet sorry.
 - ⚡ Fun fact: currently my favourite type is icewing
 
 <!---
